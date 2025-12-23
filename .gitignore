@@ -7,3 +7,9 @@ Release/
 .cproject
 .project
 .metadata/
+*.d
+*.lib
+.settings/
+.cproject
+.project
+
