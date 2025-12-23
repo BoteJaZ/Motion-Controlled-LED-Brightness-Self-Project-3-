@@ -1,0 +1,52 @@
+[
+   {
+      "directory" : "F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1/CPU1_RAM",
+      "command"   : "clang++ -I\"F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1\" -I\"C:/TI/C2000Ware_6_00_01_00/device_support/f2837xd/common/include/\" -I\"C:/TI/C2000Ware_6_00_01_00/device_support/f2837xd/headers/include/\" -I\"F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1/device\" -I\"C:/TI/C2000Ware_6_00_01_00/driverlib/f2837xd/driverlib/\" -I\"F:/CCS_20.3.1.00005_win/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1",
+      "file"      : "F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1/F2837xD_CodeStartBranch.asm"
+   },
+   {
+      "directory" : "F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1/CPU1_RAM",
+      "command"   : "clang++ -I\"F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1\" -I\"C:/TI/C2000Ware_6_00_01_00/device_support/f2837xd/common/include/\" -I\"C:/TI/C2000Ware_6_00_01_00/device_support/f2837xd/headers/include/\" -I\"F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1/device\" -I\"C:/TI/C2000Ware_6_00_01_00/driverlib/f2837xd/driverlib/\" -I\"F:/CCS_20.3.1.00005_win/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -xc",
+      "file"      : "F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1/F2837xD_DefaultISR.c"
+   },
+   {
+      "directory" : "F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1/CPU1_RAM",
+      "command"   : "clang++ -I\"F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1\" -I\"C:/TI/C2000Ware_6_00_01_00/device_support/f2837xd/common/include/\" -I\"C:/TI/C2000Ware_6_00_01_00/device_support/f2837xd/headers/include/\" -I\"F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1/device\" -I\"C:/TI/C2000Ware_6_00_01_00/driverlib/f2837xd/driverlib/\" -I\"F:/CCS_20.3.1.00005_win/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -xc",
+      "file"      : "F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1/F2837xD_GlobalVariableDefs.c"
+   },
+   {
+      "directory" : "F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1/CPU1_RAM",
+      "command"   : "clang++ -I\"F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1\" -I\"C:/TI/C2000Ware_6_00_01_00/device_support/f2837xd/common/include/\" -I\"C:/TI/C2000Ware_6_00_01_00/device_support/f2837xd/headers/include/\" -I\"F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1/device\" -I\"C:/TI/C2000Ware_6_00_01_00/driverlib/f2837xd/driverlib/\" -I\"F:/CCS_20.3.1.00005_win/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -xc",
+      "file"      : "F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1/F2837xD_Gpio.c"
+   },
+   {
+      "directory" : "F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1/CPU1_RAM",
+      "command"   : "clang++ -I\"F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1\" -I\"C:/TI/C2000Ware_6_00_01_00/device_support/f2837xd/common/include/\" -I\"C:/TI/C2000Ware_6_00_01_00/device_support/f2837xd/headers/include/\" -I\"F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1/device\" -I\"C:/TI/C2000Ware_6_00_01_00/driverlib/f2837xd/driverlib/\" -I\"F:/CCS_20.3.1.00005_win/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -xc",
+      "file"      : "F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1/F2837xD_PieCtrl.c"
+   },
+   {
+      "directory" : "F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1/CPU1_RAM",
+      "command"   : "clang++ -I\"F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1\" -I\"C:/TI/C2000Ware_6_00_01_00/device_support/f2837xd/common/include/\" -I\"C:/TI/C2000Ware_6_00_01_00/device_support/f2837xd/headers/include/\" -I\"F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1/device\" -I\"C:/TI/C2000Ware_6_00_01_00/driverlib/f2837xd/driverlib/\" -I\"F:/CCS_20.3.1.00005_win/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -xc",
+      "file"      : "F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1/F2837xD_PieVect.c"
+   },
+   {
+      "directory" : "F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1/CPU1_RAM",
+      "command"   : "clang++ -I\"F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1\" -I\"C:/TI/C2000Ware_6_00_01_00/device_support/f2837xd/common/include/\" -I\"C:/TI/C2000Ware_6_00_01_00/device_support/f2837xd/headers/include/\" -I\"F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1/device\" -I\"C:/TI/C2000Ware_6_00_01_00/driverlib/f2837xd/driverlib/\" -I\"F:/CCS_20.3.1.00005_win/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -xc",
+      "file"      : "F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1/F2837xD_SysCtrl.c"
+   },
+   {
+      "directory" : "F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1/CPU1_RAM",
+      "command"   : "clang++ -I\"F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1\" -I\"C:/TI/C2000Ware_6_00_01_00/device_support/f2837xd/common/include/\" -I\"C:/TI/C2000Ware_6_00_01_00/device_support/f2837xd/headers/include/\" -I\"F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1/device\" -I\"C:/TI/C2000Ware_6_00_01_00/driverlib/f2837xd/driverlib/\" -I\"F:/CCS_20.3.1.00005_win/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1",
+      "file"      : "F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1/F2837xD_usDelay.asm"
+   },
+   {
+      "directory" : "F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1/CPU1_RAM",
+      "command"   : "clang++ -I\"F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1\" -I\"C:/TI/C2000Ware_6_00_01_00/device_support/f2837xd/common/include/\" -I\"C:/TI/C2000Ware_6_00_01_00/device_support/f2837xd/headers/include/\" -I\"F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1/device\" -I\"C:/TI/C2000Ware_6_00_01_00/driverlib/f2837xd/driverlib/\" -I\"F:/CCS_20.3.1.00005_win/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -xc",
+      "file"      : "F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1/device/device.c"
+   },
+   {
+      "directory" : "F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1/CPU1_RAM",
+      "command"   : "clang++ -I\"F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1\" -I\"C:/TI/C2000Ware_6_00_01_00/device_support/f2837xd/common/include/\" -I\"C:/TI/C2000Ware_6_00_01_00/device_support/f2837xd/headers/include/\" -I\"F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1/device\" -I\"C:/TI/C2000Ware_6_00_01_00/driverlib/f2837xd/driverlib/\" -I\"F:/CCS_20.3.1.00005_win/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -D_DUAL_HEADERS -DCPU1 -xc",
+      "file"      : "F:/CCS_20.3.1.00005_win/Motion-Controlled LED Brightness (Self-Project 3)/motion-controlled_LED_Dimming_bitfield_cpu1/motion-controlled_LED_Dimming_bitfield_cpu1.c"
+   }
+]

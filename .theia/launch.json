@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ePWM-controlled_LED_Dimming_bitfield_cpu1",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "ePWM-controlled_LED_Dimming_bitfield_cpu1",
+                "resourceId": "/ePWM-controlled_LED_Dimming_bitfield_cpu1"
+            }
+        },
+        {
+            "name": "motion-controlled_LED_Dimming_bitfield_cpu1",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "motion-controlled_LED_Dimming_bitfield_cpu1",
+                "resourceId": "/motion-controlled_LED_Dimming_bitfield_cpu1"
+            }
+        }
+    ]
+}
